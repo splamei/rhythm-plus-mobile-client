@@ -2,6 +2,10 @@
 
 # Rhythm Plus - Splamei Client (New - Mobile)
 ## If your looking for the Windows Client, find it [here](https://github.com/splamei/rplus-pc-client)
+
+> [!IMPORTANT]  
+>  Google has announced that they will be closing down Android and requiring registering with Google (including playing a fee, providing identification, evidence of the developer's signing key and more). This will KILL the client and other third-party Android apps. [Help up keep Android open!](https://keepandroidopen.org)
+
 Another Splamei custom client for the [Rhythm Plus game](https://rhythm-plus.com) that now allows playing on Android
 
 Rhythm Plus is a web-based vertical scrolling rhythm game (VSRG), you can make, play, and share any songs from and with anyone! The game can also be played on PC and other platforms with a working web-browser.
