@@ -19,7 +19,7 @@ Rhythm Plus is a web-based vertical scrolling rhythm game (VSRG), you can make, 
 
 ## Installation
 
- - Downloaded the latest release from the [release page](https://github.com/splamei/rplus-mobile-client/releases)
+ - Downloaded the latest release from the [release page](https://github.com/splamei/rhythm-plus-mobile-client/releases)
  - Open the APK file in the **file browser app that shipped with your device** as to protect from websites and apps installing malware
  - You might be prompted to allow the app to 'Install Unknown apps'. If so, enable it
  - Google Play Protect may want to scan the app. Allow it to scan because Play Protect will block the install otherwise. This shouldn't take long
@@ -35,7 +35,7 @@ If your using this code to make your own custom client whether that be for Rhyth
 ## Contributing
 I would love for people to help the clients development so any little contribution would go a long way!
 You could contribute by:
- - Reporting issues / feature requests on the [issue page](https://github.com/splamei/rplus-mobile-client/issues)
+ - Reporting issues / feature requests on the [issue page](https://github.com/splamei/rhythm-plus-mobile-client/issues)
  - Making forks of the repo
  - Making pull request to add code or fix bugs
  - Staring or watching the repo
